@@ -65,6 +65,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Mou Mubarak Road Rahim Yar Khan ",
-  phoneNo: "92-305-8094-340 ",
+  phoneNo: "+92-305-8094-340 ",
   email: "umerdinahmedzia@gmail.com",
 };
